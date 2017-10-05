@@ -1,4 +1,5 @@
-#Copyright Nick Prowse 2017. Code Licenced under Open BSD.
+#Copyright Nick Prowse 2017. Code Licenced under Apache 2.
+
 #Version 14. 05/10/2017.
 #Programmed & tested in Python 2.76 only
 #This program attemps to import a prime list, and use the primes to factorise a number N. 
@@ -13,7 +14,7 @@ print(sys.version_info)
 import math
 import csv
 
-print("Copyright Nick Prowse 2017. Code Licenced under Open BSD.")
+print("Copyright Nick Prowse 2017. Code Licenced under Apache 2")
 print("Version 10. 31/07/2017.")
 print("This program attemps to import a prime list, and use the primes to factorise a number N.")
 print("Results printed are two arrays - first for prime factors, second for powers of those primes.")
