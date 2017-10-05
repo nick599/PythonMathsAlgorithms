@@ -1,6 +1,6 @@
 #Copyright Nick Prowse 2017. Code Licenced under Apache 2.
 
-#Version 14. 05/10/2017.
+#Version 15. 05/10/2017.
 #Programmed & tested in Python 2.76 only
 #This program attemps to import a prime list, and use the primes to factorise a number N. 
 #Results printed are two arrays - first for prime factors, second for powers of those primes.
@@ -156,10 +156,10 @@ def factorise(N):
 def MaxPower(i,N_remainder):
 	m=1
 	MxP=1
-	for n in range (2, N_remainder + 1):	
+	for n in xrange (2, N_remainder + 1):	
 		#N_remainder=25, n=1, i=5, MxP=1		
-		b = long(i**n)		
-		a = long(N_remainder % b)
+		b = i**n		
+		a = N_remainder % b
 		#print("a is: " + str(a))
 		if a==0: 	
 			#print("n is: " + str(n))
