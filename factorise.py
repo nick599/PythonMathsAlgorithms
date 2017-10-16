@@ -1,3 +1,4 @@
+
 #Copyright Nick Prowse 2017. Code Licenced under Apache 2.
 #Version 36. 16/10/2017.
 #Programmed & tested in Python 2.76 only
@@ -385,4 +386,6 @@ if __name__=='__main__':
 	#print 'Last prime in prime file is: '+str(primes[-1])
 	#print 'math.sqrt(N_remainder) is '+str(math.sqrt(N_remainder))	
 	
+
+
 
