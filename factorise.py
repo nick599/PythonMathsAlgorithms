@@ -1,4 +1,5 @@
-#Copyright Nick Prowse 2017. Code Licenced under Apache 2.
+
+Copyright Nick Prowse 2017. Code Licenced under Apache 2.
 #Version 40. 17/10/2017.
 #Programmed & tested in Python 2.76 only
 #This program attemps to import a prime list, and use the primes to factorise a number N. 
@@ -404,4 +405,6 @@ if __name__=='__main__':
 	#print 'Last prime in prime file is: '+str(primes[-1])
 	#print 'math.sqrt(N_remainder) is '+str(math.sqrt(N_remainder))	
 	
+
+
 

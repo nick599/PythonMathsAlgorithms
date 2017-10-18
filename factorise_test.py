@@ -1,3 +1,4 @@
+
 #Copyright Nick Prowse 2017. Code Licenced under Apache 2.
 #Version 7. 18/10/2017.
 #Programmed & tested in Python 2.76 only
@@ -161,6 +162,8 @@ if __name__=='__main__':
 #sys.stdout.write('\r')		
 		#sys.stdout.write("[%-20s] %d%%" % ('='*R, 5*R))
 		#sys.stdout.flush()
+
+
 
 		#if r>0:
 		#	#Write over previous line and call drawProgressBar
