@@ -1,7 +1,7 @@
 # PythonMathsAlgorithms
 Various algorithms of mathematical nature coded in python
 
-- Sieve of Eratosthenes (not segmented) - for creating a csv file of primes upto a number specied by user - Complete.
+- Sieve of Eratosthenes (not segmented) - for creating a csv file of primes upto a number specied by user - Almost complete.
 - Sieve of Eratosthenes (segmented) - for creating a csv file of primes upto a number specied by user. - Work in progress
 - DLP.py - solving Discrete Log Problem - Work in Progress
 - factorise.py - Factorising positive integers, and putting results into lists of prime factors, powers, and remainder where applicable - Complete
